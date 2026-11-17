@@ -78,4 +78,5 @@ and are not included.
 
 ## Citation
 
-See `CITATION.cff`.
+Archived on Zenodo: version v1.0.0, doi:10.5281/zenodo.24325733 (all
+versions: doi:10.5281/zenodo.24325732). See also `CITATION.cff`.
