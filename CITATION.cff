@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "Global sensitivity analysis of geographically realistic QKD networks: analysis code"
+type: software
+authors:
+  - family-names: "García-Cobo"
+    given-names: "Iván"
+    orcid: "https://orcid.org/0000-0002-9472-5613"
+    affiliation: "Department of Applied Mathematics, University of Salamanca"
+license: MIT
+repository-code: "https://github.com/ivgarci/qkd-network-sensitivity"
+version: "1.0.0"
+keywords:
+  - quantum key distribution
+  - QKD network
+  - global sensitivity analysis
+  - Sobol indices
+  - decoy-state BB84
